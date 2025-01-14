@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -48,11 +48,7 @@
     <section id="experience" class="container">
         <h2>Professional Experience</h2>
         <ul>
-            <li>
-                <strong>Blue Team Junior Analyst</strong><br>
-                Security Blue Team, 2024 - Present<br>
-                Assisted in monitoring and securing systems against cyber threats.
-            </li>
+
             <li>
                 <strong>Events Assistant</strong><br>
                 University of Technology Sydney, 2024 - Present<br>
